@@ -1,0 +1,9 @@
+# gems.rubyforge.org is the same as rubygems.org now
+source "https://rubygems.org"
+
+gem 'cucumber', '= 1.2.1'
+gem 'rspec', '= 2.14.1'
+gem 'term-ansicolor', '= 1.0.7'
+gem 'rest-client', '=1.6.7'
+gem 'rspec-expectations', '= 2.14.4'
+gem 'gherkin', '<= 2.11.6'

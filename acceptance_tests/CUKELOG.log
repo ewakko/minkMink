@@ -1,0 +1,8 @@
+2016-02-06 21:55:48 -0500:created-{"id"=>447, "mutant_name"=>"ec-mymutant", "power"=>"ec-mypower", "real_name"=>"ec-myname", "created_at"=>"2016-02-07T02:55:45.734Z", "updated_at"=>"2016-02-07T02:55:45.734Z", "eligibility_begins_at"=>nil, "eligibility_ends_at"=>nil, "may_advise_beginning_at"=>nil, "url"=>"https://mutant-school.herokuapp.com/api/v1/mutants/447"}
+2016-02-06 21:55:51 -0500:updated-{"id"=>447, "mutant_name"=>"ec-mymutant1", "power"=>"ec-mypower1", "real_name"=>"ec-myname1", "created_at"=>"2016-02-07T02:55:45.734Z", "updated_at"=>"2016-02-07T02:55:47.834Z", "eligibility_begins_at"=>nil, "eligibility_ends_at"=>nil, "may_advise_beginning_at"=>nil, "url"=>"https://mutant-school.herokuapp.com/api/v1/mutants/447"}
+2016-02-06 21:55:52 -0500:deleted-
+2016-02-06 22:41:42 -0500:updated-{"id"=>207, "begins_at"=>"2014-08-30T00:00:00.000Z", "ends_at"=>"2015-08-30T00:00:00.000Z", "created_at"=>"2016-02-07T03:33:57.921Z", "updated_at"=>"2016-02-07T03:40:40.803Z"}
+2016-02-06 22:42:25 -0500:deleted-
+2016-02-06 23:39:50 -0500:created-{"power"=>["can't be blank"]}
+2016-02-06 23:39:50 -0500:created-{"real_name"=>["can't be blank"]}
+2016-02-06 23:39:51 -0500:created-{"mutant_name"=>["can't be blank"]}
